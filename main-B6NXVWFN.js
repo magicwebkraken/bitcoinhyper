@@ -18894,7 +18894,7 @@ var Wh = (() => {
                   ],
                 },
               ],
-              sameAs: ["https://t.me/btchyper_tg", "https://x.com/btchyper_X"],
+              sameAs: ["https://t.me/btchyperoneth", "https://x.com/btchyperL2"],
               address: {
                 "@type": "PostalAddress",
                 streetAddress: "Quijano Chambers, P.O. Box 3159",
@@ -21791,12 +21791,12 @@ var im = (() => {
       {
         img: "assets/images/svg-icons/social-icons/telegram.svg",
         alt: "telegram",
-        link: "https://t.me/btchyper_tg",
+        link: "https://t.me/btchyperoneth",
       },
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "x",
-        link: "https://x.com/btchyper_X",
+        link: "https://x.com/btchyperL2",
       },
     ];
     constructor(e, n, a, s, r, l, p, h) {
@@ -22469,12 +22469,12 @@ var nm = (() => {
       {
         img: "assets/images/svg-icons/social-icons/telegram.svg",
         alt: "telegram",
-        link: "https://t.me/btchyper_tg",
+        link: "https://t.me/btchyperoneth",
       },
       {
         img: "assets/images/svg-icons/social-icons/twitter.svg",
         alt: "x",
-        link: "https://x.com/btchyper_X",
+        link: "https://x.com/btchyperL2",
       },
     ];
     subscription;
